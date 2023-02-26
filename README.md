@@ -1,8 +1,7 @@
-# bitwig-arc4
+## Bitwig + Arc 4
  Arc4 + Bitwig (Basic Implementation)
 
 ---
-## Bitwig + Arc 4
 Super rough implementation to get the 4 arc knobs controlling bitwig with bi-directional control.
 
 This basic extension utilizes a port of @Dewb .js extension. https://github.com/Dewb/bitwig-serialosc-example
