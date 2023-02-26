@@ -12,3 +12,7 @@ I am working on a touch osc template here for arc emulation. currently doesn't w
 
 ## Currently unsupported
 - multiple monome devicse
+
+
+---
+This extension would not be possible without the help from @kasselvania and @Dewb. Big shout outs.
